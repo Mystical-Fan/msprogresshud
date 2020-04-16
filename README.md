@@ -6,6 +6,9 @@ A light HUD for Flutter .
 
 ### Image
 
+![1](https://github.com/Mystical-Fan/Mystical-Fan-msprogresshud/blob/master/images/1.gif)
+![2](https://github.com/Mystical-Fan/Mystical-Fan-msprogresshud/blob/master/images/2.gif)
+
 ### Example
 ```
 import 'package:msprogresshud/msprogresshud.dart';
